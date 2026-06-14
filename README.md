@@ -4,7 +4,7 @@ AI-Powered Street Food Safety Platform
 
 ## Live Demo
 
-[Deployment Link Here]
+https://safebite-connect.lovable.app/
 
 ## Problem Statement
 
