@@ -56,3 +56,5 @@ Horcrux
 
 OSC AI Build 1.0
 Theme: AI for Social Impact
+
+Note: This MVP was built using Lovable's AI application builder platform. Due to platform limitations on the current plan, direct source-code export was not available at the time of submission. The live deployed application, project documentation, architecture, and presentation are provided for evaluation.
